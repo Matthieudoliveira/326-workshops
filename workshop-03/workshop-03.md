@@ -44,7 +44,7 @@ to explore them on their own:
 
 To get started you need to fork the [GitHub repository for this workshop][repo]. To do that click on the "**Fork**" button, it is on the upper right-hand part of the github page next to "**Unwatch**" and "**Star**". The repository contains the version of Bootstrap we will be using (v3.3.6) and a basic script that runs a local web server:
 
-![Forking the Workshop](../images/fork.png "")
+![Forking the Workshop](../images/fork.png)
 
 Clone the repository into your **class folder**, `cd`, into it, and run the following command to install a basic web server:
 
