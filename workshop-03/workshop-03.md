@@ -28,10 +28,11 @@ possible using Bootstrap, and how to apply Bootstrap to your group project.
 
 Specifically, you will:
 
+* Learn about HTML
+* Learn about CSS
 * Learn how to use Bootstrap
 * Write the next Facebook in Bootstrap!
   * ...OK, that's an overstatement. We're going to create a rough version of Facebook's layout.
-* Recreate a Twitter page in Bootstrap
 
 We will not have time to cover the following topics, but we encourage students
 to explore them on their own:
