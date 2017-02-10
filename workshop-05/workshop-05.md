@@ -112,7 +112,7 @@ pulled right. Add the following just after the media object:
         <span class="glyphicon glyphicon-user"></span>
       </button>
       <button type="button" class="btn btn-default">
-        <span className="glyphicon glyphicon-heart">
+        <span class="glyphicon glyphicon-heart">
         </span>
       </button>
       <button type="button" class="btn btn-default">
