@@ -728,4 +728,4 @@ Now you should be ready to try using Bootstrap yourself!
 
 # Submission
 
-You must submit the URL of your Workshop3 GitHub repository to Moodle. Visit Moodle, find the associated Workshop 5 activity, and provide your URL. Make sure your Workshop3 repository is public so we can clone your repository and evaluate your work. **Note: you are submitting your Workshop3 repository URL to the Workshop 5 activity because this is a continuation from workshop 3.
+You must submit the URL of your Workshop3 GitHub repository to Moodle. Visit Moodle, find the associated Workshop 5 activity, and provide your URL. Make sure your Workshop3 repository is public so we can clone your repository and evaluate your work. **Note: you are submitting your Workshop3 repository URL to the Workshop 5 activity because this is a continuation from workshop 3.**
