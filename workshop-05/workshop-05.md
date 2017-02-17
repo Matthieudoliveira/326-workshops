@@ -307,7 +307,7 @@ The status update is nearly complete, but is missing two separators:
 
 ![Facebook Main Status](../images/facebook_clone_main_status_update_1.png)
 
-![Facebook Vague Message](facebook_vaguebook_msg.png)
+![Facebook Vague Message](../images/facebook_vaguebook_msg.png)
 
 We could accomplish this with a border, but an even easier solution is to use
 two [`hr` elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr).
@@ -700,7 +700,7 @@ We can easily make these changes via CSS:
 The left sidebar looks much more like Facebook's now:
 
 ![Facebook Clone Left Sidebar](../images/facebook_clone_left_sidebar_3.png)
-![Facebook Left Sidebar](images/facebook_left_sidebar.png)
+![Facebook Left Sidebar](../images/facebook_left_sidebar.png)
 
 We could go on to apply similar changes to the main feed, but we'll stop
 here; you probably get the idea by now.
