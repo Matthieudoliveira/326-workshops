@@ -1,6 +1,9 @@
 # Workshop 05: Facebook Feed and Styling
 
-This workshop continues from where [Workshop 04](../workshop-03/workshop-04.md) left off. You do not need to clone a new repository you simply begin in the repository you cloned for [Workshop 04](../workshop-04/workshop-04.md).
+This workshop continues from
+where [Workshop 04](../workshop-03/workshop-04.md) left off. You do
+not need to clone a new repository you simply begin in the repository
+you used for [Workshop 04](../workshop-04/workshop-04.md).
 
 ## Step 07: The Feed
 
