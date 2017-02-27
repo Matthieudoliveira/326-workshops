@@ -293,7 +293,7 @@ ReactDOM.render(
 If you installed the recommended Atom packages, you'll quickly notice an
 error at the bottom of your editor coming from the `eslint` package:
 
-![](jsx_warning_1.png)
+![](../images/jsx_warning_1.png)
 
 *Adjacent JSX elements must be wrapped in an enclosing tag.* In other words,
 `render()` needs to return *one* HTML element, but we're returning
@@ -305,13 +305,13 @@ any special styling to this `div`.
 
 Now, `eslint` will warn about another issue:
 
-![](jsx_warning_2.png)
+![](../images/jsx_warning_2.png)
 
 *Unexpected token !* JSX doesn't support HTML comment tags (`<!-- -->`). Strip all of them out.
 
 `eslint` is still complaining, though:
 
-![](jsx_warning_3.png)
+![](../images/jsx_warning_3.png)
 
 In normal HTML, we can have elements like `<hr>` and `<br>`, which do not have
 closing tags. With React/JSX, however, we have to explicitly close *every* tag.
@@ -321,7 +321,7 @@ Change instances of `<hr>` to `<hr />`, `<br>` to `<br />`, and `<input ... >` t
 We're almost done, but `eslint` is complaining *again*. This time, it's spitting
 out an error on nearly every line of the file:
 
-![](jsx_warning_4.png)
+![](../images/jsx_warning_4.png)
 
 This time, `eslint` objects to us using the `class` property on HTML elements,
 and urges us to use the `className` property itself. This seems erroneous,
@@ -345,7 +345,7 @@ do this automatically using the "Replace All" feature of Atom; click on "Find" i
 the Atom menubar, click on "Find in buffer...", and fill out the fields at the
 bottom of the editor screen:
 
-![](atom_replace_all.png)
+![](../images/atom_replace_all.png)
 
 Once you click "Replace All", all of the warnings should go away! And when you
 go to `http://localhost:8080/`, you should see the Facebook feed, as it looked
@@ -898,7 +898,7 @@ If you installed the [React Dev Tools](https://github.com/facebook/react-devtool
 and open the Chrome Development Tools to the "React" tab, you'll see all of the
 components you've defined!
 
-![](react_dev_tools_1.png)
+![](../images/react_dev_tools_1.png)
 
 **`add` all of the files in `components`, `commit` with message `fb3`, `push` to GitHub**
 
@@ -959,7 +959,7 @@ In our Facebook clone, a *Comment* is an entity. A *Comment* is related to a *Us
 
 In an ER diagram, we represent that relationship like this:
 
-![](facebook_entity_example_1.png)
+![](../images/facebook_entity_example_1.png)
 
 *Note: In an ER diagram, you use `n` to denote an arbitrary number.*
 
@@ -975,7 +975,7 @@ on Facebook, a *FeedItem* could be a *StatusUpdate*, *Advertisement*, *Event*,
 and more.
 We can represent this relationship as a *IsA* relationship:
 
-![](facebook_entity_example_2.png)
+![](../images/facebook_entity_example_2.png)
 
 We won't be adding support for non-*StatusUpdate* *FeedItem* types in this workshop,
 but we'll design the *FeedItem* so that more types of items can be added in the future.
@@ -985,7 +985,7 @@ user of Facebook has a separate Feed, but multiple users can see the same *FeedI
 
 With *Has* and *IsA* relationships, we can create an ER diagram for all of the data in our Facebook clone:
 
-![](facebook_entity_diagram.png)
+![](../images/facebook_entity_diagram.png)
 
 Take a moment to think about the diagram. Do all of the relationships make sense
 to you?
@@ -1066,7 +1066,7 @@ With that lesson out of the way, let's work on structuring Facebook's data!
 Let's apply our rules to our ER diagram. **Red** relationships illustrate *references*, and
 **yellow** relationships illustrate *embeddings*:
 
-![](facebook_entity_diagram_labeled.png)
+![](../images/facebook_entity_diagram_labeled.png)
 
 With that diagram in mind, we can create JSON object collections for each
 grouping of entities. We will need collections of *users*, *feeds*, and *feedItems*.
