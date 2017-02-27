@@ -7,3 +7,7 @@
 * [Workshop 05: Facebook Feed and Styling](./workshop-05/workshop-05.md)
 * [Workshop 06: JavaScript, React, and Facebook](./workshop-06/workshop-06.md)
 * [Workshop 07: Data Modeling and Mock Databases](./workshop-07/workshop-07.md)
+* Workshop 08: Supporting Interaction with React
+* Workshop 09: Writing a Web Server
+* Workshop 10: Adding a Database
+* Workshop 11: Authentication
