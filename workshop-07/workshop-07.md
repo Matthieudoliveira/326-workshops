@@ -62,7 +62,7 @@ In our Facebook clone, a *Comment* is an entity. A *Comment* is related to a *Us
 
 In an ER diagram, we represent that relationship like this:
 
-![](../images/facebook_entity_example_1.png)
+![](../images/facebook_entity_example_1.svg)
 
 *Note: In an ER diagram, you use `n` to denote an arbitrary number.*
 
