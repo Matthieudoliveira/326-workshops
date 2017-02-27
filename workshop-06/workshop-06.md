@@ -1,4 +1,4 @@
-# JavaScript, React, and Mocking a Server
+# Workshop 06: JavaScript, React, and Mocking a Server
 
 # Introduction
 
@@ -86,8 +86,17 @@ browser's existing development tools.
 Fork
 the
 [repository for this workshop](https://github.com/umass-cs-326/Workshop4and5). You
-will notice that this repository is called `Workshop4and5`. You will
-be using the same repository for both workshop 4 and 5.
+will notice that this repository is called `Workshop4and5`. Because
+the workshops for this course are a work in progress our documentation
+and repositories are slightly out of sync. To make sure you do not
+confuse yourself you should clone your forked repository as a
+different name on your local machine:
+
+```bash
+clone https://github.com/umass-cs-326/Workshop4and5.git Workshop6
+```
+
+**You will be using the same repository for the next couple of workshops.**
 
 You'll notice that the repository is *eerily similar* to the
 repository you're using for your team project. In fact... it's
@@ -1298,9 +1307,9 @@ We will tackle these two changes (and more!) in the next workshop!
 
 # Submission
 
-You must submit the URL of your **Workshop4and5** GitHub repository to
-Moodle. Visit Moodle, find the associated Workshop 4 activity, and
-provide your URL. Make sure your **Workshop4and5** repository is
-public so we can clone your repository and evaluate your
-work. **Submitting the URL for this assignment is part of completing
-the work.**
+You must submit the URL of your **Workshop4and5** (Workshop6) GitHub
+repository to Moodle. Visit Moodle, find the associated Workshop 6
+activity, and provide your URL. Make sure your **Workshop4and5**
+(Workshop6) repository is public so we can clone your repository and
+evaluate your work. **Submitting the URL for this assignment is part
+of completing the work.**
