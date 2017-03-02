@@ -362,6 +362,7 @@ Once you click "Replace All", all of the warnings should go away! And when you
 go to `http://localhost:8080/`, you should see the Facebook feed, as it looked
 like in the static mockup.
 
+<img width="7%" src="../images/git.png">
 **`commit` your changes with the message "ws06 step 02 facebook feed"
 and `push` the commit to GitHub.**
 
@@ -915,6 +916,7 @@ components you've defined!
 
 ![](../images/react_dev_tools_1.png)
 
+<img width="7%" src="../images/git.png">
 **`add` all of the files in `components`, `commit` with message "ws06
 step 03 breaking the feed apart into subcomponents", `push` to
 GitHub**
