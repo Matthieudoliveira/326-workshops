@@ -917,6 +917,7 @@ components you've defined!
 ![](../images/react_dev_tools_1.png)
 
 <img width="7%" src="../images/git.png">
+![](../images/git.png)
 **`add` all of the files in `components`, `commit` with message "ws06
 step 03 breaking the feed apart into subcomponents", `push` to
 GitHub**
