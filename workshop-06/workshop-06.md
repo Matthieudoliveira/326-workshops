@@ -93,7 +93,7 @@ confuse yourself you should clone your forked repository as a
 different name on your local machine:
 
 ```bash
-clone https://github.com/umass-cs-326/Workshop4and5.git Workshop6
+git clone https://github.com/umass-cs-326/Workshop4and5.git Workshop6
 ```
 
 **You will be using the same repository for the next couple of workshops.**
