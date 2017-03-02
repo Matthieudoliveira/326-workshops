@@ -263,7 +263,7 @@ source code in `app/`.
 Make sense? If not, maybe things will get clearer as we use React a
 bit more.
 
-![](../images/git.png)
+<img width="50%" src="../images/git.png">
 **`commit` your changes with the commit message "ws06 step 01 ugh
 world widget", and `push` your commit to GitHub.**
 
