@@ -263,7 +263,8 @@ source code in `app/`.
 Make sense? If not, maybe things will get clearer as we use React a
 bit more.
 
-**`commit` your changes with the commit message `fb1`, and `push` your commit to GitHub.**
+**`commit` your changes with the commit message "step 01 ugh world
+widget", and `push` your commit to GitHub.**
 
 # Step 02: Facebook Feed as a Static React Component
 
@@ -360,7 +361,8 @@ Once you click "Replace All", all of the warnings should go away! And when you
 go to `http://localhost:8080/`, you should see the Facebook feed, as it looked
 like in the static mockup.
 
-**`commit` your changes with the message `fb2` and `push` the commit to GitHub.**
+**`commit` your changes with the message "step 02 facebook feed" and
+`push` the commit to GitHub.**
 
 # Step 03: Breaking the Feed Apart Into Subcomponents
 
@@ -909,7 +911,8 @@ components you've defined!
 
 ![](../images/react_dev_tools_1.png)
 
-**`add` all of the files in `components`, `commit` with message `fb3`, `push` to GitHub**
+**`add` all of the files in `components`, `commit` with message "step
+03 breaking the feed apart into subcomponents", `push` to GitHub**
 
 # Conclusion
 
