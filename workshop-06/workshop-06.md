@@ -264,7 +264,6 @@ Make sense? If not, maybe things will get clearer as we use React a
 bit more.
 
 <img width="7%" src="../images/git.png">
-![](../images/git.png)
 **`commit` your changes with the commit message "ws06 step 01 ugh
 world widget", and `push` your commit to GitHub.**
 
