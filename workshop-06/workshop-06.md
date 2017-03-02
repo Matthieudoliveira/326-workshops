@@ -263,7 +263,7 @@ source code in `app/`.
 Make sense? If not, maybe things will get clearer as we use React a
 bit more.
 
-<img width="7%" src="../images/git.png">
+![](../images/git.jpg)
 **`commit` your changes with the commit message "ws06 step 01 ugh
 world widget", and `push` your commit to GitHub.**
 
@@ -362,7 +362,7 @@ Once you click "Replace All", all of the warnings should go away! And when you
 go to `http://localhost:8080/`, you should see the Facebook feed, as it looked
 like in the static mockup.
 
-<img width="7%" src="../images/git.png">
+![](../images/git.jpg)
 **`commit` your changes with the message "ws06 step 02 facebook feed"
 and `push` the commit to GitHub.**
 
@@ -916,8 +916,7 @@ components you've defined!
 
 ![](../images/react_dev_tools_1.png)
 
-<img width="7%" src="../images/git.png">
-![](../images/git.png)
+![](../images/git.jpg)
 **`add` all of the files in `components`, `commit` with message "ws06
 step 03 breaking the feed apart into subcomponents", `push` to
 GitHub**
