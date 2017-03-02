@@ -263,8 +263,8 @@ source code in `app/`.
 Make sense? If not, maybe things will get clearer as we use React a
 bit more.
 
-**`commit` your changes with the commit message "step 01 ugh world
-widget", and `push` your commit to GitHub.**
+**`commit` your changes with the commit message "ws06 step 01 ugh
+world widget", and `push` your commit to GitHub.**
 
 # Step 02: Facebook Feed as a Static React Component
 
@@ -361,8 +361,8 @@ Once you click "Replace All", all of the warnings should go away! And when you
 go to `http://localhost:8080/`, you should see the Facebook feed, as it looked
 like in the static mockup.
 
-**`commit` your changes with the message "step 02 facebook feed" and
-`push` the commit to GitHub.**
+**`commit` your changes with the message "ws06 step 02 facebook feed"
+and `push` the commit to GitHub.**
 
 # Step 03: Breaking the Feed Apart Into Subcomponents
 
@@ -903,7 +903,10 @@ and `feed` is in the `app/components` folder, therefore we use the path `./compo
 
 ## Examine the page
 
-Now, open your web browser to `http://localhost:8080/`. If you already have your web browser open to that page, make sure you hit "Refresh" to pull in the new code you just wrote. You'll notice that the static mockup looks the same as ever.
+Now, open your web browser to `http://localhost:8080/`. If you already
+have your web browser open to that page, make sure you hit "Refresh"
+to pull in the new code you just wrote. You'll notice that the static
+mockup looks the same as ever.
 
 If you installed the [React Dev Tools](https://github.com/facebook/react-devtools)
 and open the Chrome Development Tools to the "React" tab, you'll see all of the
@@ -911,8 +914,9 @@ components you've defined!
 
 ![](../images/react_dev_tools_1.png)
 
-**`add` all of the files in `components`, `commit` with message "step
-03 breaking the feed apart into subcomponents", `push` to GitHub**
+**`add` all of the files in `components`, `commit` with message "ws06
+step 03 breaking the feed apart into subcomponents", `push` to
+GitHub**
 
 # Conclusion
 
