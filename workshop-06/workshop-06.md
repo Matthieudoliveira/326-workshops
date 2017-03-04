@@ -392,10 +392,13 @@ render the basic feed:
 * `Comment`
 * `CommentEntry`
 
-We could define all of these components in a single file, but that becomes
-hard to maintain. Instead, create the folder `app/components/`, and put seven new
-JavaScript files into that folder -- one for each component (`app/feed.js`, `app/feeditem.js`, `app/statusupdate.js`...).
-Keep the files empty for now. We're going to define each together, one by one.
+We could define all of these components in a single file, but that
+becomes hard to maintain. Instead, create the folder
+`app/components/`, and put seven new JavaScript files into that folder
+-- one for each component (`app/components/feed.js`,
+`app/components/feeditem.js`, `app/components/statusupdate.js`...).
+Keep the files empty for now. We're going to define each together, one
+by one.
 
 ## `app/components/comment.js`
 
