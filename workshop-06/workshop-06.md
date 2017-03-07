@@ -249,7 +249,8 @@ Let's break down the above code, line-by-line:
     doesn't have *static types* -- meaning, you don't specify the type
     of things at all when you are programming.
 * Finally, on line 12, we tell `ReactDOM` to render a `UghWorld`
-  component into the `fb-feed` element on the webpage.
+  component into the `fb-feed` element on the webpage. The `fb-feed`
+  element in the HTML document is called the **mount point**.
   * ReactDOM will replace the contents of the feed with the element
     returned from `UghWorld`'s `render()` function.
   * Notice how we refer to `UghWorld` using HTML notation. React
